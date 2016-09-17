@@ -21,6 +21,5 @@ Terminology:
 
 Notes:
      
-No hash table with a number of buckets less than MIN_BUCKETS
- is ever created, regardless of other parts of thi specification.
- This is a hash-based set, not map, so there are only keys, not values.
+No hash table with a number of buckets less than MIN_BUCKETS is ever created, regardless of other parts of thi specification.
+This is a hash-based set, not map, so there are only keys, not values.
